@@ -1,0 +1,14 @@
+{
+  "scope": "Synthetic one-second WAV, 100 warm calls; includes fixture generation; no MELD accuracy claim",
+  "hardware": "Apple M5",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "python": "3.14.7",
+  "p50_ms": 0.6887080380693078,
+  "p95_ms": 0.8481353870593011,
+  "max_ms": 0.9202079381793737,
+  "peak_process_rss_mb": 138.78125,
+  "rss_scope": "Includes imports and synthetic training",
+  "learned_parameters": 29101,
+  "model_bytes": 6367,
+  "installed_ram_gib": 16
+}

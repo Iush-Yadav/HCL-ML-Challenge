@@ -1,0 +1,13 @@
+{
+  "scope": "Synthetic one-second WAV, 100 warm calls; includes fixture generation; no MELD accuracy claim",
+  "hardware": "CPU model unavailable in sandbox; see docs/validation.md",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "python": "3.14.7",
+  "p50_ms": 0.6669579306617379,
+  "p95_ms": 2.0422999747097483,
+  "max_ms": 4.186457954347134,
+  "peak_process_rss_mb": 138.609375,
+  "rss_scope": "Includes imports and synthetic training",
+  "learned_parameters": 29101,
+  "model_bytes": 6367
+}

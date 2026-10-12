@@ -1,0 +1,40 @@
+[
+  {
+    "type": "state",
+    "seq": 0,
+    "emotion": "joy",
+    "scores": {
+      "anger": 0.02122691395812616,
+      "disgust": 0.021739686956231824,
+      "fear": 0.04871349526470225,
+      "joy": 0.7888571040595779,
+      "neutral": 0.06591763154145305,
+      "sadness": 0.025487637331615486,
+      "surprise": 0.02805753088829344
+    },
+    "confidence": 0.7888571040595779,
+    "uncertain": false,
+    "tags": [],
+    "evidence": {
+      "text_emotion": "joy",
+      "audio_emotion": "joy",
+      "audio_weight": 0.5,
+      "audio_quality": {
+        "duration_s": 1.0,
+        "rms": 0.08852,
+        "clipping_fraction": 0.0,
+        "silent": false
+      }
+    },
+    "model_provenance": {
+      "kind": "SYNTHETIC_INTEGRATION_ONLY",
+      "warning": "Not trained on MELD"
+    },
+    "latency_ms": 0.773
+  },
+  {
+    "type": "response",
+    "seq": 0,
+    "text": "You said, \u201cWhat wonderful news\u201d. That sounds like good news. What are you most pleased about?"
+  }
+]
